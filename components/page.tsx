@@ -301,7 +301,7 @@ export function HomePage() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Notre Passion</h3>
-                  <p>Fondée par des passionnés d&apos;automobiles, Tuning Cars offre une expérience de conduite inégalée depuis 2015.</p>
+                  <p>Fondée par des passionnés d&apos;automobiles, Terrada Rental Car offre une expérience de conduite inégalée depuis 2015.</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
@@ -310,7 +310,7 @@ export function HomePage() {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Notre Expertise</h3>
-                  <p>Nos experts en tuning personnalisent chaque véhicule pour offrir des performances optimales et un style unique.</p>
+                  <p>Nos experts en location personnalisent chaque véhicule pour offrir des performances optimales et un style unique.</p>
                 </div>
               </div>
               <div className="flex items-start space-x-4">
