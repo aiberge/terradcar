@@ -63,7 +63,7 @@ const cars: Car[] = [
   { 
     name: 'Dacia Stepway', 
     type: 'Crossover', 
-    image: '/dacia-stepway.webp',
+    image: '/dacia-step.jpg',
     price: '350dh/jour',
     details: [
       'Moteur: 1.0L TCe',
